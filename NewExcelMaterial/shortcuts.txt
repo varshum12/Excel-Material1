@@ -1,0 +1,17 @@
+ctrl+A-- select + all
+ctrl +b -- bold
+ctrl +z -- undo
+ctrl +I -- italic
+ctrl + u-- underline
+ctrl  + 1 -- format
+ctrl +enter -- to stay in same cell
+alt+ enter -- > to take text below
+cltr + shift  +  arrow--> selection of  cell
+ctrl +arrow --> to move 
+fn + f2 --> open in edit mode
+ctrl + x--> cut
+ctrl +v --> paste
+ctrl +c --> copy
+ctrl + d --> copy down 
+ctrl  +  r  -->  copy r
+alt + =  --->  addition
